@@ -1,5 +1,6 @@
-# docker-promtail-loki
-Docker Compose Stack with Grafana Loki and Promtail
+#reference link :- https://ruanbekker.medium.com/logging-with-docker-promtail-and-grafana-loki-d920fd790ca8
+# docker-compose-with-nginx-grafana-promtail-loki
+Docker Compose Stack with Nginx,  Grafana Loki and Promtail
 
 ## Usage
 
